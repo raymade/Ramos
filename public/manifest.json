@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "RAMZY_SN@ALL – Creative Design Studio",
+  "short_name": "RAMZY",
+  "description": "Creative portfolio of Ramos Friday Oluwaseun. UI/UX design, digital products, logo design, graphic design, and visual branding.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#F8F8F5",
+  "background_color": "#F8F8F5",
+  "categories": ["design", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
